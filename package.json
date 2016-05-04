@@ -1,0 +1,28 @@
+{
+  "name": "bento",
+  "version": "0.0.1",
+  "description": "Written in ES2015. A framework that allows a user to store recipes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/culinarie/bento.git"
+  },
+  "author": "Rowell Heria <owieh@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/culinarie/bento/issues"
+  },
+  "homepage": "https://github.com/culinarie/bento#readme",
+  "devDependencies": {
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^8.0.0",
+    "eslint-plugin-import": "^1.6.1"
+  },
+  "dependencies": {
+    "mongoose": "^4.4.14",
+    "underscore": "^1.8.3"
+  }
+}
